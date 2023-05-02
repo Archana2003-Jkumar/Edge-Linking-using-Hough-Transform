@@ -61,7 +61,8 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-![image](https://user-images.githubusercontent.com/93427594/235694394-91b948b1-948c-4f11-bfe3-4e2de994769d.png)
+![image](https://user-images.githubusercontent.com/93427594/235697434-2c3ade6b-13ab-4a42-a401-9b837a5567f1.png)
+
 ![image](https://user-images.githubusercontent.com/93427594/235695999-88a92d93-d235-4b27-8587-2354d5eeeb2f.png)
 
 ### Canny Edge detector output
